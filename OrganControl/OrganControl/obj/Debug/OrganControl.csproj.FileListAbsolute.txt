@@ -1,0 +1,21 @@
+c:\users\david\documents\visual studio 2013\Projects\OrganControl\OrganControl\bin\Debug\OrganControl.exe.config
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\bin\Debug\OrganControl.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\bin\Debug\OrganControl.pdb
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\obj\Debug\OrganControl.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\obj\Debug\OrganControl.Form1.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\obj\Debug\OrganControl.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\obj\Debug\OrganControl.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\obj\Debug\OrganControl.exe
+C:\Users\David\Documents\Visual Studio 2013\Projects\OrganControl\OrganControl\obj\Debug\OrganControl.pdb
+E:\OrganControl\OrganControl\bin\Debug\OrganControl.exe.config
+E:\OrganControl\OrganControl\obj\Debug\OrganControl.exe
+E:\OrganControl\OrganControl\obj\Debug\OrganControl.pdb
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\bin\Debug\OrganControl.exe.config
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\obj\Debug\OrganControl.exe
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\obj\Debug\OrganControl.pdb
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\bin\Debug\OrganControl.exe
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\bin\Debug\OrganControl.pdb
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\obj\Debug\OrganControl.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\obj\Debug\OrganControl.Form1.resources
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\obj\Debug\OrganControl.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\PipeOrgan\OrganControl\OrganControl\obj\Debug\OrganControl.csproj.GenerateResource.Cache
